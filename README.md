@@ -1,8 +1,8 @@
-# Building Evolutionary Architectures: Support Constant Change
+# Site Reliability Engineering: How Google Runs Production Systems
 
 <div>
   <a>
-    <img src="https://img.shields.io/badge/-Evolutionary_Architectures-black?&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" />
+    <img src="https://img.shields.io/badge/-Site_Reliability_Engineering-black?&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" />
   </a>
 </div>
 
@@ -19,7 +19,6 @@ Main language is Russian 🇷🇺
 Quotes from next sections were presented:
 
 <!-- no toc -->
-
 - [Introduction](#introduction)
 - [The Production Environment at Google from the Viewpoint of an SRE](#the-production-environment-at-google-from-the-viewpoint-of-an-sre)
 - [Embracing Risk](#embracing-risk)

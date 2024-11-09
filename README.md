@@ -19,20 +19,16 @@ Main language is Russian 🇷🇺
 Quotes from next sections were presented:
 
 <!-- no toc -->
-
-- [Site Reliability Engineering: How Google Runs Production Systems](#site-reliability-engineering-how-google-runs-production-systems)
-  - [✍ Description](#-description)
-  - [💻 Table of contents](#-table-of-contents)
-  - [Introduction](#introduction)
-  - [The Production Environment at Google from the Viewpoint of an SRE](#the-production-environment-at-google-from-the-viewpoint-of-an-sre)
-  - [Embracing Risk](#embracing-risk)
-  - [Service Level Objectives](#service-level-objectives)
-  - [Eliminating Toil](#eliminating-toil)
-  - [Monitoring Distributed Systems](#monitoring-distributed-systems)
-  - [The Evolution of Automation at Google](#the-evolution-of-automation-at-google)
-  - [Postmortem Culture Learning from Failure](#postmortem-culture-learning-from-failure)
-  - [Testing for Reliability](#testing-for-reliability)
-  - [Handling Overload](#handling-overload)
+- [Introduction](#introduction)
+- [The Production Environment at Google from the Viewpoint of an SRE](#the-production-environment-at-google-from-the-viewpoint-of-an-sre)
+- [Embracing Risk](#embracing-risk)
+- [Service Level Objectives](#service-level-objectives)
+- [Eliminating Toil](#eliminating-toil)
+- [Monitoring Distributed Systems](#monitoring-distributed-systems)
+- [The Evolution of Automation at Google](#the-evolution-of-automation-at-google)
+- [Postmortem Culture Learning from Failure](#postmortem-culture-learning-from-failure)
+- [Testing for Reliability](#testing-for-reliability)
+- [Handling Overload](#handling-overload)
 
 ## Introduction
 
